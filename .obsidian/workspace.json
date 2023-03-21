@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "603e90b7d126c58f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a067264ec8f3d25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1876f3195039622e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Obsidian Lean Canvas.canvas",
+                "viewState": {
+                  "x": -250,
+                  "y": -62,
+                  "zoom": -1.2079602688726305
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0340325694fd6325",
+    "type": "split",
+    "children": [
+      {
+        "id": "89368be3ae2fd36c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f90b7c6ad8b9a244",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1ea07508ba31cc79",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8a838b6e9eee52c9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5bc7db499de71424",
+    "type": "split",
+    "children": [
+      {
+        "id": "03ec2ee9a777f10f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "512c50182421d561",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian Lean Canvas.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e3178f769e8d29c3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Obsidian Lean Canvas.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "16a54b2c1b1d405c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cdc4d6e8d7225c32",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsidian Lean Canvas.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1876f3195039622e",
+  "lastOpenFiles": [
+    "✨ UNFAIR ADVANTAGE.md",
+    "Obsidian Lean Canvas.canvas",
+    "❗️PROBLEM.md"
+  ]
+}
