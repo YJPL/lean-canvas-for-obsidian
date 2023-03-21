@@ -1,4 +1,4 @@
-# lean-canvas-for-obsidian
+# Lean Canvas template for Obsidian
 *Lean Canvas template for Obsidian and Obsidian Kanban*
 
 Lean canvas by [Ash Maurya](https://blog.leanstack.com/what-is-the-right-fill-order-for-a-lean-canvas/) ready to use in Obsidian.
