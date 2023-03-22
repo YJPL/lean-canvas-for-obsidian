@@ -3,7 +3,7 @@
 
 Lean canvas by [Ash Maurya](https://blog.leanstack.com/what-is-the-right-fill-order-for-a-lean-canvas/) ready to use in Obsidian.
 
-You'll need the [Obsidian](https://obsidian.md) app, with [Obsidian Kanban Plugin](https://publish.obsidian.md/kanban/Obsidian+Kanban+Plugin) by [Matthew Meters](https://github.com/mgmeyers) installed.
+You'll need the [Obsidian](https://obsidian.md) app, with [Obsidian Kanban Plugin](https://publish.obsidian.md/kanban/Obsidian+Kanban+Plugin) by [Matthew Meyers](https://github.com/mgmeyers) installed.
 
 Just open the lean canvas folder as a new vault and start filling the boxes.
 
