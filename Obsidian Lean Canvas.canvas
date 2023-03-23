@@ -1,14 +1,14 @@
 {
 	"nodes":[
-		{"type":"file","file":"💎 UNIQUE VALUE PROPOSITION.md","id":"8eb4bb400be37537","x":-440,"y":-760,"width":400,"height":900,"color":"2"},
-		{"type":"file","file":"✨ UNFAIR ADVANTAGE.md","id":"5ed42bb676c639fb","x":-20,"y":-760,"width":400,"height":400,"color":"6"},
-		{"type":"file","file":"🤗 CUSTOMER SEGMENTS.md","id":"77815eaf3fe76915","x":420,"y":-760,"width":400,"height":900,"color":"#014dfe"},
-		{"type":"file","file":"🎯 CHANNELS.md","id":"db1dd0eb56ba14be","x":-20,"y":-320,"width":400,"height":460,"color":"3"},
-		{"type":"file","file":"💡 SOLUTION.md","id":"067cbbd1ffc42c35","x":-880,"y":-760,"width":400,"height":400,"color":"5"},
-		{"type":"file","file":"❗️PROBLEM.md","id":"2800b3593cbbb742","x":-1320,"y":-760,"width":400,"height":900,"color":"1"},
-		{"type":"file","file":"💸 REVENUE STREAMS.md","id":"5992f186bbc8e3b4","x":-220,"y":196,"width":1040,"height":440,"color":"4"},
-		{"type":"file","file":"💰 COST STRUCTURE.md","id":"035e53384fc937f3","x":-1320,"y":196,"width":1060,"height":440,"color":"#ff00d0"},
-		{"id":"bc66fea57737eb36","x":-880,"y":-320,"width":400,"height":460,"color":"4","type":"file","file":"🗝️ KEY METRICS.md"}
+		{"type":"file","file":"💎 UNIQUE VALUE PROPOSITION.md","id":"8eb4bb400be37537","x":-460,"y":-760,"width":420,"height":900,"color":"2"},
+		{"type":"file","file":"✨ UNFAIR ADVANTAGE.md","id":"5ed42bb676c639fb","x":-20,"y":-760,"width":420,"height":400,"color":"6"},
+		{"type":"file","file":"💡 SOLUTION.md","id":"067cbbd1ffc42c35","x":-900,"y":-760,"width":420,"height":400,"color":"5"},
+		{"type":"file","file":"🎯 CHANNELS.md","id":"db1dd0eb56ba14be","x":-20,"y":-320,"width":420,"height":460,"color":"3"},
+		{"type":"file","file":"🤗 CUSTOMER SEGMENTS.md","id":"77815eaf3fe76915","x":420,"y":-760,"width":420,"height":900,"color":"#014dfe"},
+		{"type":"file","file":"🗝️ KEY METRICS.md","id":"bc66fea57737eb36","x":-900,"y":-320,"width":420,"height":460,"color":"4"},
+		{"type":"file","file":"❗️PROBLEM.md","id":"2800b3593cbbb742","x":-1340,"y":-760,"width":420,"height":900,"color":"1"},
+		{"type":"file","file":"💰 COST STRUCTURE.md","id":"035e53384fc937f3","x":-1340,"y":196,"width":1080,"height":440,"color":"#ff00d0"},
+		{"type":"file","file":"💸 REVENUE STREAMS.md","id":"5992f186bbc8e3b4","x":-240,"y":196,"width":1080,"height":440,"color":"4"}
 	],
 	"edges":[]
 }
