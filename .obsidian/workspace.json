@@ -4,22 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7a067264ec8f3d25",
+        "id": "4a1f163e502f6e0f",
         "type": "tabs",
         "children": [
           {
-            "id": "1876f3195039622e",
+            "id": "989fb08912c21656",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Obsidian Lean Canvas.canvas",
-                "viewState": {
-                  "x": -228.4648011882049,
-                  "y": 27.745628953989183,
-                  "zoom": -0.8331392990413351
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -88,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Lean Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Lean Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Obsidian Lean Canvas.canvas"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,12 +138,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1876f3195039622e",
+  "active": "989fb08912c21656",
   "lastOpenFiles": [
+    "Obsidian Lean Canvas.canvas",
     "💎 UNIQUE VALUE PROPOSITION.md",
     "✨ UNFAIR ADVANTAGE.md",
     "❗️PROBLEM.md",
-    "Obsidian Lean Canvas.canvas",
     "README.md",
     "LICENSE.md"
   ]
