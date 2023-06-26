@@ -4,4 +4,4 @@
 
 ## EARLY ADOPTERS
 
--   List your ideal customer's characteristics g
+-   List your ideal customer's characteristics

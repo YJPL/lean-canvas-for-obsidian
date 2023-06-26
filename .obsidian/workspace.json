@@ -11,8 +11,15 @@
             "id": "989fb08912c21656",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Obsidian Lean Canvas.canvas",
+                "viewState": {
+                  "x": -250,
+                  "y": -62,
+                  "zoom": -0.8114475432398962
+                }
+              }
             }
           }
         ]
@@ -60,6 +67,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "ea7c4df0167e56a2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -81,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Obsidian Lean Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Obsidian Lean Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Obsidian Lean Canvas.canvas"
+              }
             }
           }
         ]
