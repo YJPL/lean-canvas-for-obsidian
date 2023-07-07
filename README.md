@@ -7,7 +7,8 @@ You'll need the [Obsidian](https://obsidian.md) app, with [Obsidian Kanban Plugi
 
 Just open the lean canvas folder as a new vault and start filling the boxes.
 
-<img width="1792" alt="Lean_Canvas_for_Obsidian" src="https://user-images.githubusercontent.com/26725821/227256821-f52175ce-e40f-4bb5-aa7c-44f39ce8ede6.png">
+<img width="1792" alt="Lean_Canvas_for_Obsidian, preview" src="https://github.com/YJPL/lean-canvas-for-obsidian/assets/26725821/3d8abe39-bf09-41e7-b03d-10be38e919d8">
+
 
 If you find this template useful and would like to support its development, you can sponsor me on Github, or buy me a coffee.
 
