@@ -11,8 +11,7 @@ After downloading the *lean canvas* folder from GitHub, pick the "open folder as
 
 You can then start filling your canvas.
 
-<img width="1792" alt="Lean_Canvas_for_Obsidian, preview" src="https://github.com/YJPL/lean-canvas-for-obsidian/assets/26725821/3d8abe39-bf09-41e7-b03d-10be38e919d8">
-
+<img width="1792" alt="Lean_Canvas_for_Obsidian, preview 2023-12-26" src="https://github.com/YJPL/lean-canvas-for-obsidian/assets/26725821/d0621d08-1404-438d-913f-61585ce4dbc1">
 
 If you find this template useful and would like to support its development, you can sponsor me on Github, or buy me a coffee.
 
