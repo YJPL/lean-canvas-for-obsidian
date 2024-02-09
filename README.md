@@ -16,3 +16,5 @@ You can then start filling your canvas.
 If you find this template useful and would like to support its development, you can sponsor me on Github, or buy me a coffee.
 
 <a href="https://www.buymeacoffee.com/alternatyves/" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+
+If you are looking for business model canvas with its nine building blocks from Strategyzer, [you can find a template ready to use with Obsidian here](https://github.com/YJPL/business-model-canvas-for-obsidian).
