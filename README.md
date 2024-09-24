@@ -18,4 +18,6 @@ If you find this template useful and would like to support its development, you 
 
 <a href="https://www.buymeacoffee.com/alternatyves/" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T013TB72)
+
 If you are looking for the business model canvas with its nine building blocks from Strategyzer, [you can find the business model canvas template for Obsidian here](https://github.com/YJPL/business-model-canvas-for-obsidian).
